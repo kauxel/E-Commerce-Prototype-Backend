@@ -1,0 +1,356 @@
+generator client {
+  provider     = "prisma-client"
+  output       = "./generated"
+  moduleFormat = "cjs"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum UserRole {
+  USER
+  ADMIN
+}
+
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  password  String
+  name      String
+  role      UserRole @default(USER)
+  avatarUrl String?
+  handphone String?  @unique
+
+  address  Address[]
+  merchant Merchant?
+  carts    Cart[]
+  orders   Order[]
+
+  createdAt DateTime @default(now())
+}
+
+model Province {
+  id   String @id @default(uuid())
+  name String @unique
+
+  address Address[]
+  city    City[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+}
+
+model City {
+  id   String   @id @default(uuid())
+  name String
+
+  address    Address[]
+  provinceId String
+  district   District[]
+
+  province Province @relation(fields: [provinceId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+
+  @@unique([provinceId, name])
+}
+
+model District {
+  id   String @id @default(uuid())
+  name String
+
+  address    Address[]
+  cityId     String
+  postalCode PostalCode[]
+
+  city City @relation(fields: [cityId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+
+  @@unique([cityId, name])
+}
+
+model PostalCode {
+  id   String @id @default(uuid())
+  code String?
+  name String
+
+  address    Address[]
+  districtId String
+  district   District  @relation(fields: [districtId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+}
+
+model Address {
+  id            String  @id @default(uuid())
+  recipientName String
+  phone         String
+  addressLine1  String
+  addressLine2  String?
+  isDefault     Boolean @default(false)
+  label         String?
+
+  userId       String
+  provinceId   String
+  cityId       String
+  districtId   String
+  postalCodeId String
+
+  user       User       @relation(fields: [userId], references: [id])
+  province   Province   @relation(fields: [provinceId], references: [id])
+  city       City       @relation(fields: [cityId], references: [id])
+  district   District   @relation(fields: [districtId], references: [id])
+  postalCode PostalCode @relation(fields: [postalCodeId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+
+  @@index([userId, provinceId, cityId, districtId, postalCodeId])
+}
+
+model Merchant {
+  id String @id @default(uuid())
+
+  storeName String
+  storeSlug String @unique
+
+  description String?
+
+  isVerified Boolean @default(false)
+
+  userId String @unique
+  user   User   @relation(fields: [userId], references: [id])
+
+  products Product[]
+
+  createdAt DateTime @default(now())
+}
+
+model Category {
+  id   String @id @default(uuid())
+  name String
+  slug String @unique
+
+  products Product[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+}
+
+model Product {
+  id          String  @id @default(uuid())
+  name        String
+  slug        String  @unique
+  description String?
+  price       Decimal @db.Decimal(12, 2)
+  stock       Int
+  imageUrl    String?
+  weight      Int
+  width       Int
+  height      Int
+  length      Int
+
+  merchantId String
+  categoryId String
+  cartItem   CartItem[]
+  orderItem  OrderItem[]
+
+  merchant Merchant @relation(fields: [merchantId], references: [id])
+  category Category @relation(fields: [categoryId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+}
+
+model Cart {
+  id String @id @default(uuid())
+
+  userId String     @unique
+  items  CartItem[]
+
+  user User @relation(fields: [userId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+}
+
+model CartItem {
+  id       String @id @default(uuid())
+  quantity Int
+
+  cartId    String
+  productId String
+
+  cart    Cart    @relation(fields: [cartId], references: [id])
+  product Product @relation(fields: [productId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+
+  @@unique([cartId, productId])
+}
+
+enum PaymentStatus {
+  PENDING
+  CHALLENGE
+  SETTLEMENT
+  CAPTURE
+  DENY
+  CANCEL
+  EXPIRE
+  REFUND
+  PARTIAL_REFUND
+  FAILURE
+}
+
+enum PaymentMethod {
+  BANK_TRANSFER
+  QRIS
+  GOPAY
+  SHOPEEPAY
+  CREDIT_CARD
+  COD
+}
+
+model Payment {
+  id            String         @id @default(uuid())
+  amount        Decimal        @db.Decimal(12, 2)
+  status        PaymentStatus  @default(PENDING)
+  method        PaymentMethod?
+  transactionId String?        @unique
+  orderCode     String?        @unique
+  snapToken     String?
+  paidAt        DateTime?
+  expiredAt     DateTime?
+  rawResponse   Json?
+
+  orderId String @unique
+  order   Order  @relation(fields: [orderId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+
+  @@index([status])
+}
+
+enum ShippingStatus {
+  PENDING
+  READY_TO_SHIP
+  PICK_UP
+  IN_TRANSIT
+  DELIVERED
+  CANCELED
+  RETURNED
+  DELIVERY_FAILED
+}
+
+model ShippingStatusLog {
+  id          String         @id @default(uuid())
+  description String
+  rawResponse Json?
+  status      ShippingStatus @default(PENDING)
+
+  shippingDetailId String
+  shippingDetail   ShippingDetail @relation(fields: [shippingDetailId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+
+  @@index([status])
+}
+
+model ShippingDetail {
+  id                 String  @id @default(uuid())
+  courierName        String
+  courierService     String
+  airwayBill         String? @unique // Nomor Resi (bisa null sebelum di-pickup)
+  bookingId          String? @unique // ID Transaksi dari API Agregator
+  shippingCost       Decimal @db.Decimal(10, 2)
+  insuranceCost      Decimal @default(0.00) @db.Decimal(10, 2)
+  isCod              Boolean @default(false)
+  codFee             Decimal @default(0.00) @db.Decimal(10, 2) // Potongan fee dari agregator jika COD
+  weightInGrams      Int
+  // Dimensi Paket (Penting untuk API Kargo/Logistik), untuk saat ini belum sekompleks itu
+  lengthCm           Int?
+  widthCm            Int?
+  heightCm           Int?
+  originAddress      Json
+  destinationAddress Json
+  estimatedDays      String?
+
+  orderId    String              @unique
+  statusLogs ShippingStatusLog[]
+
+  order Order @relation(fields: [orderId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+}
+
+enum OrderStatus {
+  PENDING_PAYMENT
+  PROCESSING
+  PACKED
+  SHIPPED
+  DELIVERED
+  COMPLETED
+  CANCELED
+  REFUNDED
+}
+
+//// Alih2 menggunakan uuid, gunakan kustom id untuk setiap id order, payment, dan shipping agar mudah di tracking admin. 
+model Order {
+  id     String      @id @default(uuid()) @unique
+  total  Decimal     @db.Decimal(12, 2)
+  status OrderStatus @default(PENDING_PAYMENT)
+
+  userId         String
+  items          OrderItem[]
+  orderAddres    OrderAddress?
+  payment        Payment?
+  shippingDetail ShippingDetail?
+
+  user User @relation(fields: [userId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+
+  @@index([userId, status])
+}
+
+model OrderItem {
+  id          String  @id @default(uuid())
+  productName String
+  quantity    Int
+  price       Decimal @db.Decimal(12, 2)
+  subtotal    Decimal @db.Decimal(12, 2)
+
+  orderId   String
+  productId String
+
+  order   Order   @relation(fields: [orderId], references: [id])
+  product Product @relation(fields: [productId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+}
+
+model OrderAddress {
+  id            String  @id @default(uuid())
+  recipientName String
+  phone         String
+  addressLine1  String
+  addressLine2  String?
+  province      String
+  city          String
+  district      String
+  postalCode    String
+
+  orderId String @unique
+  order   Order  @relation(fields: [orderId], references: [id])
+}

@@ -1,0 +1,19 @@
+// Untuk setiap aksi yang butuh perlakuan khusus setiap role akan dipisah dari aksi manage
+// ex: hanya customer dan merchant yang bisa tambah cart mereka sendiri
+export enum Permission {
+  CREATE_CART = 'CREATE_CART',
+  MANAGE_CART = 'MANAGE_CART',
+  MANAGE_CATEGORY = 'MANAGE_CATEGORY',
+  CREATE_ORDER = 'CREATE_ORDER',
+  MANAGE_ORDER = 'MANAGE_ORDER',
+  CREATE_PAYMENT = 'CREATE_PAYMENT',
+  MANAGE_PAYMENT = 'MANAGE_PAYMENT',
+  CREATE_PRODUCT = 'CREATE_PRODUCT',
+  MANAGE_PRODUCT = 'MANAGE_PRODUCT',
+  CREATE_SHIPPING = 'CREATE_SHIPPING',
+  MANAGE_SHIPPING = 'MANAGE_SHIPPING',
+  MANAGE_ADDRESS = 'MANAGE_ADDRESS',
+  MANAGE_PROFILE = 'MANAGE_PROFILE',
+  MANAGE_MERCHANT = 'MANAGE_MERCHANT',
+  MANAGE_USER = 'MANAGE_USER',
+}

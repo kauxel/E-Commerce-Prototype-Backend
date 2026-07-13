@@ -1,0 +1,3600 @@
+[
+    {
+        "bps_code": "1101",
+        "kemendagri_code": "1109",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. SIMEULUE"
+    },
+    {
+        "bps_code": "1102",
+        "kemendagri_code": "1110",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH SINGKIL"
+    },
+    {
+        "bps_code": "1103",
+        "kemendagri_code": "1101",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH SELATAN"
+    },
+    {
+        "bps_code": "1104",
+        "kemendagri_code": "1102",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH TENGGARA"
+    },
+    {
+        "bps_code": "1105",
+        "kemendagri_code": "1103",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH TIMUR"
+    },
+    {
+        "bps_code": "1106",
+        "kemendagri_code": "1104",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH TENGAH"
+    },
+    {
+        "bps_code": "1107",
+        "kemendagri_code": "1105",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH BARAT"
+    },
+    {
+        "bps_code": "1108",
+        "kemendagri_code": "1106",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH BESAR"
+    },
+    {
+        "bps_code": "1109",
+        "kemendagri_code": "1107",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. PIDIE"
+    },
+    {
+        "bps_code": "1110",
+        "kemendagri_code": "1111",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. BIREUEN"
+    },
+    {
+        "bps_code": "1111",
+        "kemendagri_code": "1108",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH UTARA"
+    },
+    {
+        "bps_code": "1112",
+        "kemendagri_code": "1112",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH BARAT DAYA"
+    },
+    {
+        "bps_code": "1113",
+        "kemendagri_code": "1113",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. GAYO LUES"
+    },
+    {
+        "bps_code": "1114",
+        "kemendagri_code": "1116",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH TAMIANG"
+    },
+    {
+        "bps_code": "1115",
+        "kemendagri_code": "1115",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. NAGAN RAYA"
+    },
+    {
+        "bps_code": "1116",
+        "kemendagri_code": "1114",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. ACEH JAYA"
+    },
+    {
+        "bps_code": "1117",
+        "kemendagri_code": "1117",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. BENER MERIAH"
+    },
+    {
+        "bps_code": "1118",
+        "kemendagri_code": "1118",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KAB. PIDIE JAYA"
+    },
+    {
+        "bps_code": "1171",
+        "kemendagri_code": "1171",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KOTA BANDA ACEH"
+    },
+    {
+        "bps_code": "1172",
+        "kemendagri_code": "1172",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KOTA SABANG"
+    },
+    {
+        "bps_code": "1173",
+        "kemendagri_code": "1174",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KOTA LANGSA"
+    },
+    {
+        "bps_code": "1174",
+        "kemendagri_code": "1173",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KOTA LHOKSEUMAWE"
+    },
+    {
+        "bps_code": "1175",
+        "kemendagri_code": "1175",
+        "bps_province_code": "11",
+        "kemendagri_province_code": "11",
+        "name": "KOTA SUBULUSSALAM"
+    },
+    {
+        "bps_code": "1201",
+        "kemendagri_code": "1204",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. NIAS"
+    },
+    {
+        "bps_code": "1202",
+        "kemendagri_code": "1213",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. MANDAILING NATAL"
+    },
+    {
+        "bps_code": "1203",
+        "kemendagri_code": "1203",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. TAPANULI SELATAN"
+    },
+    {
+        "bps_code": "1204",
+        "kemendagri_code": "1201",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. TAPANULI TENGAH"
+    },
+    {
+        "bps_code": "1205",
+        "kemendagri_code": "1202",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. TAPANULI UTARA"
+    },
+    {
+        "bps_code": "1206",
+        "kemendagri_code": "1212",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. TOBA"
+    },
+    {
+        "bps_code": "1207",
+        "kemendagri_code": "1210",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. LABUHANBATU"
+    },
+    {
+        "bps_code": "1208",
+        "kemendagri_code": "1209",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. ASAHAN"
+    },
+    {
+        "bps_code": "1209",
+        "kemendagri_code": "1208",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. SIMALUNGUN"
+    },
+    {
+        "bps_code": "1210",
+        "kemendagri_code": "1211",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. DAIRI"
+    },
+    {
+        "bps_code": "1211",
+        "kemendagri_code": "1206",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. KARO"
+    },
+    {
+        "bps_code": "1212",
+        "kemendagri_code": "1207",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. DELI SERDANG"
+    },
+    {
+        "bps_code": "1213",
+        "kemendagri_code": "1205",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. LANGKAT"
+    },
+    {
+        "bps_code": "1214",
+        "kemendagri_code": "1214",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. NIAS SELATAN"
+    },
+    {
+        "bps_code": "1215",
+        "kemendagri_code": "1216",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. HUMBANG HASUNDUTAN"
+    },
+    {
+        "bps_code": "1216",
+        "kemendagri_code": "1215",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. PAKPAK BHARAT"
+    },
+    {
+        "bps_code": "1217",
+        "kemendagri_code": "1217",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. SAMOSIR"
+    },
+    {
+        "bps_code": "1218",
+        "kemendagri_code": "1218",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. SERDANG BEDAGAI"
+    },
+    {
+        "bps_code": "1219",
+        "kemendagri_code": "1219",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. BATU BARA"
+    },
+    {
+        "bps_code": "1220",
+        "kemendagri_code": "1220",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. PADANG LAWAS UTARA"
+    },
+    {
+        "bps_code": "1221",
+        "kemendagri_code": "1221",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. PADANG LAWAS"
+    },
+    {
+        "bps_code": "1222",
+        "kemendagri_code": "1222",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. LABUHANBATU SELATAN"
+    },
+    {
+        "bps_code": "1223",
+        "kemendagri_code": "1223",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. LABUHANBATU UTARA"
+    },
+    {
+        "bps_code": "1224",
+        "kemendagri_code": "1224",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. NIAS UTARA"
+    },
+    {
+        "bps_code": "1225",
+        "kemendagri_code": "1225",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KAB. NIAS BARAT"
+    },
+    {
+        "bps_code": "1271",
+        "kemendagri_code": "1273",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KOTA SIBOLGA"
+    },
+    {
+        "bps_code": "1272",
+        "kemendagri_code": "1274",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KOTA TANJUNG BALAI"
+    },
+    {
+        "bps_code": "1273",
+        "kemendagri_code": "1272",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KOTA PEMATANGSIANTAR"
+    },
+    {
+        "bps_code": "1274",
+        "kemendagri_code": "1276",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KOTA TEBING TINGGI"
+    },
+    {
+        "bps_code": "1275",
+        "kemendagri_code": "1271",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KOTA MEDAN"
+    },
+    {
+        "bps_code": "1276",
+        "kemendagri_code": "1275",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KOTA BINJAI"
+    },
+    {
+        "bps_code": "1277",
+        "kemendagri_code": "1277",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KOTA PADANG SIDEMPUAN"
+    },
+    {
+        "bps_code": "1278",
+        "kemendagri_code": "1278",
+        "bps_province_code": "12",
+        "kemendagri_province_code": "12",
+        "name": "KOTA GUNUNGSITOLI"
+    },
+    {
+        "bps_code": "1301",
+        "kemendagri_code": "1309",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. KEPULAUAN MENTAWAI"
+    },
+    {
+        "bps_code": "1302",
+        "kemendagri_code": "1301",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. PESISIR SELATAN"
+    },
+    {
+        "bps_code": "1303",
+        "kemendagri_code": "1302",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. SOLOK"
+    },
+    {
+        "bps_code": "1304",
+        "kemendagri_code": "1303",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. SIJUNJUNG"
+    },
+    {
+        "bps_code": "1305",
+        "kemendagri_code": "1304",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. TANAH DATAR"
+    },
+    {
+        "bps_code": "1306",
+        "kemendagri_code": "1305",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. PADANG PARIAMAN"
+    },
+    {
+        "bps_code": "1307",
+        "kemendagri_code": "1306",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. AGAM"
+    },
+    {
+        "bps_code": "1308",
+        "kemendagri_code": "1307",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. LIMA PULUH KOTA"
+    },
+    {
+        "bps_code": "1309",
+        "kemendagri_code": "1308",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. PASAMAN"
+    },
+    {
+        "bps_code": "1310",
+        "kemendagri_code": "1311",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. SOLOK SELATAN"
+    },
+    {
+        "bps_code": "1311",
+        "kemendagri_code": "1310",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. DHARMASRAYA"
+    },
+    {
+        "bps_code": "1312",
+        "kemendagri_code": "1312",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KAB. PASAMAN BARAT"
+    },
+    {
+        "bps_code": "1371",
+        "kemendagri_code": "1371",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KOTA PADANG"
+    },
+    {
+        "bps_code": "1372",
+        "kemendagri_code": "1372",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KOTA SOLOK"
+    },
+    {
+        "bps_code": "1373",
+        "kemendagri_code": "1373",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KOTA SAWAHLUNTO"
+    },
+    {
+        "bps_code": "1374",
+        "kemendagri_code": "1374",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KOTA PADANG PANJANG"
+    },
+    {
+        "bps_code": "1375",
+        "kemendagri_code": "1375",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KOTA BUKITTINGGI"
+    },
+    {
+        "bps_code": "1376",
+        "kemendagri_code": "1376",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KOTA PAYAKUMBUH"
+    },
+    {
+        "bps_code": "1377",
+        "kemendagri_code": "1377",
+        "bps_province_code": "13",
+        "kemendagri_province_code": "13",
+        "name": "KOTA PARIAMAN"
+    },
+    {
+        "bps_code": "1401",
+        "kemendagri_code": "1409",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. KUANTAN SINGINGI"
+    },
+    {
+        "bps_code": "1402",
+        "kemendagri_code": "1402",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. INDRAGIRI HULU"
+    },
+    {
+        "bps_code": "1403",
+        "kemendagri_code": "1404",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. INDRAGIRI HILIR"
+    },
+    {
+        "bps_code": "1404",
+        "kemendagri_code": "1405",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. PELALAWAN"
+    },
+    {
+        "bps_code": "1405",
+        "kemendagri_code": "1408",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. SIAK"
+    },
+    {
+        "bps_code": "1406",
+        "kemendagri_code": "1401",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. KAMPAR"
+    },
+    {
+        "bps_code": "1407",
+        "kemendagri_code": "1406",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. ROKAN HULU"
+    },
+    {
+        "bps_code": "1408",
+        "kemendagri_code": "1403",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. BENGKALIS"
+    },
+    {
+        "bps_code": "1409",
+        "kemendagri_code": "1407",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. ROKAN HILIR"
+    },
+    {
+        "bps_code": "1410",
+        "kemendagri_code": "1410",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KAB. KEPULAUAN MERANTI"
+    },
+    {
+        "bps_code": "1471",
+        "kemendagri_code": "1471",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KOTA PEKANBARU"
+    },
+    {
+        "bps_code": "1473",
+        "kemendagri_code": "1472",
+        "bps_province_code": "14",
+        "kemendagri_province_code": "14",
+        "name": "KOTA DUMAI"
+    },
+    {
+        "bps_code": "1501",
+        "kemendagri_code": "1501",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. KERINCI"
+    },
+    {
+        "bps_code": "1502",
+        "kemendagri_code": "1502",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. MERANGIN"
+    },
+    {
+        "bps_code": "1503",
+        "kemendagri_code": "1503",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. SAROLANGUN"
+    },
+    {
+        "bps_code": "1504",
+        "kemendagri_code": "1504",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. BATANGHARI"
+    },
+    {
+        "bps_code": "1505",
+        "kemendagri_code": "1505",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. MUARO JAMBI"
+    },
+    {
+        "bps_code": "1506",
+        "kemendagri_code": "1507",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. TANJUNG JABUNG TIMUR"
+    },
+    {
+        "bps_code": "1507",
+        "kemendagri_code": "1506",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. TANJUNG JABUNG BARAT"
+    },
+    {
+        "bps_code": "1508",
+        "kemendagri_code": "1509",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. TEBO"
+    },
+    {
+        "bps_code": "1509",
+        "kemendagri_code": "1508",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KAB. BUNGO"
+    },
+    {
+        "bps_code": "1571",
+        "kemendagri_code": "1571",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KOTA JAMBI"
+    },
+    {
+        "bps_code": "1572",
+        "kemendagri_code": "1572",
+        "bps_province_code": "15",
+        "kemendagri_province_code": "15",
+        "name": "KOTA SUNGAI PENUH"
+    },
+    {
+        "bps_code": "1601",
+        "kemendagri_code": "1601",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. OGAN KOMERING ULU"
+    },
+    {
+        "bps_code": "1602",
+        "kemendagri_code": "1602",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. OGAN KOMERING ILIR"
+    },
+    {
+        "bps_code": "1603",
+        "kemendagri_code": "1603",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. MUARA ENIM"
+    },
+    {
+        "bps_code": "1604",
+        "kemendagri_code": "1604",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. LAHAT"
+    },
+    {
+        "bps_code": "1605",
+        "kemendagri_code": "1605",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. MUSI RAWAS"
+    },
+    {
+        "bps_code": "1606",
+        "kemendagri_code": "1606",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. MUSI BANYUASIN"
+    },
+    {
+        "bps_code": "1607",
+        "kemendagri_code": "1607",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. BANYUASIN"
+    },
+    {
+        "bps_code": "1608",
+        "kemendagri_code": "1609",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. OGAN KOMERING ULU SELATAN"
+    },
+    {
+        "bps_code": "1609",
+        "kemendagri_code": "1608",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. OGAN KOMERING ULU TIMUR"
+    },
+    {
+        "bps_code": "1610",
+        "kemendagri_code": "1610",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. OGAN ILIR"
+    },
+    {
+        "bps_code": "1611",
+        "kemendagri_code": "1611",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. EMPAT LAWANG"
+    },
+    {
+        "bps_code": "1612",
+        "kemendagri_code": "1612",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. PENUKAL ABAB LEMATANG ILIR"
+    },
+    {
+        "bps_code": "1613",
+        "kemendagri_code": "1613",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KAB. MUSI RAWAS UTARA"
+    },
+    {
+        "bps_code": "1671",
+        "kemendagri_code": "1671",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KOTA PALEMBANG"
+    },
+    {
+        "bps_code": "1672",
+        "kemendagri_code": "1674",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KOTA PRABUMULIH"
+    },
+    {
+        "bps_code": "1673",
+        "kemendagri_code": "1672",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KOTA PAGAR ALAM"
+    },
+    {
+        "bps_code": "1674",
+        "kemendagri_code": "1673",
+        "bps_province_code": "16",
+        "kemendagri_province_code": "16",
+        "name": "KOTA LUBUK LINGGAU"
+    },
+    {
+        "bps_code": "1701",
+        "kemendagri_code": "1701",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. BENGKULU SELATAN"
+    },
+    {
+        "bps_code": "1702",
+        "kemendagri_code": "1702",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. REJANG LEBONG"
+    },
+    {
+        "bps_code": "1703",
+        "kemendagri_code": "1703",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. BENGKULU UTARA"
+    },
+    {
+        "bps_code": "1704",
+        "kemendagri_code": "1704",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. KAUR"
+    },
+    {
+        "bps_code": "1705",
+        "kemendagri_code": "1705",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. SELUMA"
+    },
+    {
+        "bps_code": "1706",
+        "kemendagri_code": "1706",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. MUKO MUKO"
+    },
+    {
+        "bps_code": "1707",
+        "kemendagri_code": "1707",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. LEBONG"
+    },
+    {
+        "bps_code": "1708",
+        "kemendagri_code": "1708",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. KEPAHIANG"
+    },
+    {
+        "bps_code": "1709",
+        "kemendagri_code": "1709",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KAB. BENGKULU TENGAH"
+    },
+    {
+        "bps_code": "1771",
+        "kemendagri_code": "1771",
+        "bps_province_code": "17",
+        "kemendagri_province_code": "17",
+        "name": "KOTA BENGKULU"
+    },
+    {
+        "bps_code": "1801",
+        "kemendagri_code": "1804",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. LAMPUNG BARAT"
+    },
+    {
+        "bps_code": "1802",
+        "kemendagri_code": "1806",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. TANGGAMUS"
+    },
+    {
+        "bps_code": "1803",
+        "kemendagri_code": "1801",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. LAMPUNG SELATAN"
+    },
+    {
+        "bps_code": "1804",
+        "kemendagri_code": "1807",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. LAMPUNG TIMUR"
+    },
+    {
+        "bps_code": "1805",
+        "kemendagri_code": "1802",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. LAMPUNG TENGAH"
+    },
+    {
+        "bps_code": "1806",
+        "kemendagri_code": "1803",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. LAMPUNG UTARA"
+    },
+    {
+        "bps_code": "1807",
+        "kemendagri_code": "1808",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. WAY KANAN"
+    },
+    {
+        "bps_code": "1808",
+        "kemendagri_code": "1805",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. TULANG BAWANG"
+    },
+    {
+        "bps_code": "1809",
+        "kemendagri_code": "1809",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. PESAWARAN"
+    },
+    {
+        "bps_code": "1810",
+        "kemendagri_code": "1810",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. PRINGSEWU"
+    },
+    {
+        "bps_code": "1811",
+        "kemendagri_code": "1811",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. MESUJI"
+    },
+    {
+        "bps_code": "1812",
+        "kemendagri_code": "1812",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. TULANG BAWANG BARAT"
+    },
+    {
+        "bps_code": "1813",
+        "kemendagri_code": "1813",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KAB. PESISIR BARAT"
+    },
+    {
+        "bps_code": "1871",
+        "kemendagri_code": "1871",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KOTA BANDAR LAMPUNG"
+    },
+    {
+        "bps_code": "1872",
+        "kemendagri_code": "1872",
+        "bps_province_code": "18",
+        "kemendagri_province_code": "18",
+        "name": "KOTA METRO"
+    },
+    {
+        "bps_code": "1901",
+        "kemendagri_code": "1901",
+        "bps_province_code": "19",
+        "kemendagri_province_code": "19",
+        "name": "KAB. BANGKA"
+    },
+    {
+        "bps_code": "1902",
+        "kemendagri_code": "1902",
+        "bps_province_code": "19",
+        "kemendagri_province_code": "19",
+        "name": "KAB. BELITUNG"
+    },
+    {
+        "bps_code": "1903",
+        "kemendagri_code": "1905",
+        "bps_province_code": "19",
+        "kemendagri_province_code": "19",
+        "name": "KAB. BANGKA BARAT"
+    },
+    {
+        "bps_code": "1904",
+        "kemendagri_code": "1904",
+        "bps_province_code": "19",
+        "kemendagri_province_code": "19",
+        "name": "KAB. BANGKA TENGAH"
+    },
+    {
+        "bps_code": "1905",
+        "kemendagri_code": "1903",
+        "bps_province_code": "19",
+        "kemendagri_province_code": "19",
+        "name": "KAB. BANGKA SELATAN"
+    },
+    {
+        "bps_code": "1906",
+        "kemendagri_code": "1906",
+        "bps_province_code": "19",
+        "kemendagri_province_code": "19",
+        "name": "KAB. BELITUNG TIMUR"
+    },
+    {
+        "bps_code": "1971",
+        "kemendagri_code": "1971",
+        "bps_province_code": "19",
+        "kemendagri_province_code": "19",
+        "name": "KOTA PANGKAL PINANG"
+    },
+    {
+        "bps_code": "2101",
+        "kemendagri_code": "2102",
+        "bps_province_code": "21",
+        "kemendagri_province_code": "21",
+        "name": "KAB. KARIMUN"
+    },
+    {
+        "bps_code": "2102",
+        "kemendagri_code": "2101",
+        "bps_province_code": "21",
+        "kemendagri_province_code": "21",
+        "name": "KAB. BINTAN"
+    },
+    {
+        "bps_code": "2103",
+        "kemendagri_code": "2103",
+        "bps_province_code": "21",
+        "kemendagri_province_code": "21",
+        "name": "KAB. NATUNA"
+    },
+    {
+        "bps_code": "2104",
+        "kemendagri_code": "2104",
+        "bps_province_code": "21",
+        "kemendagri_province_code": "21",
+        "name": "KAB. LINGGA"
+    },
+    {
+        "bps_code": "2105",
+        "kemendagri_code": "2105",
+        "bps_province_code": "21",
+        "kemendagri_province_code": "21",
+        "name": "KAB. KEPULAUAN ANAMBAS"
+    },
+    {
+        "bps_code": "2171",
+        "kemendagri_code": "2171",
+        "bps_province_code": "21",
+        "kemendagri_province_code": "21",
+        "name": "KOTA BATAM"
+    },
+    {
+        "bps_code": "2172",
+        "kemendagri_code": "2172",
+        "bps_province_code": "21",
+        "kemendagri_province_code": "21",
+        "name": "KOTA TANJUNG PINANG"
+    },
+    {
+        "bps_code": "3101",
+        "kemendagri_code": "3101",
+        "bps_province_code": "31",
+        "kemendagri_province_code": "31",
+        "name": "KAB. ADM. KEP. SERIBU"
+    },
+    {
+        "bps_code": "3171",
+        "kemendagri_code": "3174",
+        "bps_province_code": "31",
+        "kemendagri_province_code": "31",
+        "name": "KOTA ADM. JAKARTA SELATAN"
+    },
+    {
+        "bps_code": "3172",
+        "kemendagri_code": "3175",
+        "bps_province_code": "31",
+        "kemendagri_province_code": "31",
+        "name": "KOTA ADM. JAKARTA TIMUR"
+    },
+    {
+        "bps_code": "3173",
+        "kemendagri_code": "3171",
+        "bps_province_code": "31",
+        "kemendagri_province_code": "31",
+        "name": "KOTA ADM. JAKARTA PUSAT"
+    },
+    {
+        "bps_code": "3174",
+        "kemendagri_code": "3173",
+        "bps_province_code": "31",
+        "kemendagri_province_code": "31",
+        "name": "KOTA ADM. JAKARTA BARAT"
+    },
+    {
+        "bps_code": "3175",
+        "kemendagri_code": "3172",
+        "bps_province_code": "31",
+        "kemendagri_province_code": "31",
+        "name": "KOTA ADM. JAKARTA UTARA"
+    },
+    {
+        "bps_code": "3201",
+        "kemendagri_code": "3201",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. BOGOR"
+    },
+    {
+        "bps_code": "3202",
+        "kemendagri_code": "3202",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. SUKABUMI"
+    },
+    {
+        "bps_code": "3203",
+        "kemendagri_code": "3203",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. CIANJUR"
+    },
+    {
+        "bps_code": "3204",
+        "kemendagri_code": "3204",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. BANDUNG"
+    },
+    {
+        "bps_code": "3205",
+        "kemendagri_code": "3205",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. GARUT"
+    },
+    {
+        "bps_code": "3206",
+        "kemendagri_code": "3206",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. TASIKMALAYA"
+    },
+    {
+        "bps_code": "3207",
+        "kemendagri_code": "3207",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. CIAMIS"
+    },
+    {
+        "bps_code": "3208",
+        "kemendagri_code": "3208",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. KUNINGAN"
+    },
+    {
+        "bps_code": "3209",
+        "kemendagri_code": "3209",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. CIREBON"
+    },
+    {
+        "bps_code": "3210",
+        "kemendagri_code": "3210",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. MAJALENGKA"
+    },
+    {
+        "bps_code": "3211",
+        "kemendagri_code": "3211",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. SUMEDANG"
+    },
+    {
+        "bps_code": "3212",
+        "kemendagri_code": "3212",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. INDRAMAYU"
+    },
+    {
+        "bps_code": "3213",
+        "kemendagri_code": "3213",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. SUBANG"
+    },
+    {
+        "bps_code": "3214",
+        "kemendagri_code": "3214",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. PURWAKARTA"
+    },
+    {
+        "bps_code": "3215",
+        "kemendagri_code": "3215",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. KARAWANG"
+    },
+    {
+        "bps_code": "3216",
+        "kemendagri_code": "3216",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. BEKASI"
+    },
+    {
+        "bps_code": "3217",
+        "kemendagri_code": "3217",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. BANDUNG BARAT"
+    },
+    {
+        "bps_code": "3218",
+        "kemendagri_code": "3218",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KAB. PANGANDARAN"
+    },
+    {
+        "bps_code": "3271",
+        "kemendagri_code": "3271",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA BOGOR"
+    },
+    {
+        "bps_code": "3272",
+        "kemendagri_code": "3272",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA SUKABUMI"
+    },
+    {
+        "bps_code": "3273",
+        "kemendagri_code": "3273",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA BANDUNG"
+    },
+    {
+        "bps_code": "3274",
+        "kemendagri_code": "3274",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA CIREBON"
+    },
+    {
+        "bps_code": "3275",
+        "kemendagri_code": "3275",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA BEKASI"
+    },
+    {
+        "bps_code": "3276",
+        "kemendagri_code": "3276",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA DEPOK"
+    },
+    {
+        "bps_code": "3277",
+        "kemendagri_code": "3277",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA CIMAHI"
+    },
+    {
+        "bps_code": "3278",
+        "kemendagri_code": "3278",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA TASIKMALAYA"
+    },
+    {
+        "bps_code": "3279",
+        "kemendagri_code": "3279",
+        "bps_province_code": "32",
+        "kemendagri_province_code": "32",
+        "name": "KOTA BANJAR"
+    },
+    {
+        "bps_code": "3301",
+        "kemendagri_code": "3301",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. CILACAP"
+    },
+    {
+        "bps_code": "3302",
+        "kemendagri_code": "3302",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. BANYUMAS"
+    },
+    {
+        "bps_code": "3303",
+        "kemendagri_code": "3303",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. PURBALINGGA"
+    },
+    {
+        "bps_code": "3304",
+        "kemendagri_code": "3304",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. BANJARNEGARA"
+    },
+    {
+        "bps_code": "3305",
+        "kemendagri_code": "3305",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. KEBUMEN"
+    },
+    {
+        "bps_code": "3306",
+        "kemendagri_code": "3306",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. PURWOREJO"
+    },
+    {
+        "bps_code": "3307",
+        "kemendagri_code": "3307",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. WONOSOBO"
+    },
+    {
+        "bps_code": "3308",
+        "kemendagri_code": "3308",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. MAGELANG"
+    },
+    {
+        "bps_code": "3309",
+        "kemendagri_code": "3309",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. BOYOLALI"
+    },
+    {
+        "bps_code": "3310",
+        "kemendagri_code": "3310",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. KLATEN"
+    },
+    {
+        "bps_code": "3311",
+        "kemendagri_code": "3311",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. SUKOHARJO"
+    },
+    {
+        "bps_code": "3312",
+        "kemendagri_code": "3312",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. WONOGIRI"
+    },
+    {
+        "bps_code": "3313",
+        "kemendagri_code": "3313",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. KARANGANYAR"
+    },
+    {
+        "bps_code": "3314",
+        "kemendagri_code": "3314",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. SRAGEN"
+    },
+    {
+        "bps_code": "3315",
+        "kemendagri_code": "3315",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. GROBOGAN"
+    },
+    {
+        "bps_code": "3316",
+        "kemendagri_code": "3316",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. BLORA"
+    },
+    {
+        "bps_code": "3317",
+        "kemendagri_code": "3317",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. REMBANG"
+    },
+    {
+        "bps_code": "3318",
+        "kemendagri_code": "3318",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. PATI"
+    },
+    {
+        "bps_code": "3319",
+        "kemendagri_code": "3319",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. KUDUS"
+    },
+    {
+        "bps_code": "3320",
+        "kemendagri_code": "3320",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. JEPARA"
+    },
+    {
+        "bps_code": "3321",
+        "kemendagri_code": "3321",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. DEMAK"
+    },
+    {
+        "bps_code": "3322",
+        "kemendagri_code": "3322",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. SEMARANG"
+    },
+    {
+        "bps_code": "3323",
+        "kemendagri_code": "3323",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. TEMANGGUNG"
+    },
+    {
+        "bps_code": "3324",
+        "kemendagri_code": "3324",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. KENDAL"
+    },
+    {
+        "bps_code": "3325",
+        "kemendagri_code": "3325",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. BATANG"
+    },
+    {
+        "bps_code": "3326",
+        "kemendagri_code": "3326",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. PEKALONGAN"
+    },
+    {
+        "bps_code": "3327",
+        "kemendagri_code": "3327",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. PEMALANG"
+    },
+    {
+        "bps_code": "3328",
+        "kemendagri_code": "3328",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. TEGAL"
+    },
+    {
+        "bps_code": "3329",
+        "kemendagri_code": "3329",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KAB. BREBES"
+    },
+    {
+        "bps_code": "3371",
+        "kemendagri_code": "3371",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KOTA MAGELANG"
+    },
+    {
+        "bps_code": "3372",
+        "kemendagri_code": "3372",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KOTA SURAKARTA"
+    },
+    {
+        "bps_code": "3373",
+        "kemendagri_code": "3373",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KOTA SALATIGA"
+    },
+    {
+        "bps_code": "3374",
+        "kemendagri_code": "3374",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KOTA SEMARANG"
+    },
+    {
+        "bps_code": "3375",
+        "kemendagri_code": "3375",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KOTA PEKALONGAN"
+    },
+    {
+        "bps_code": "3376",
+        "kemendagri_code": "3376",
+        "bps_province_code": "33",
+        "kemendagri_province_code": "33",
+        "name": "KOTA TEGAL"
+    },
+    {
+        "bps_code": "3401",
+        "kemendagri_code": "3401",
+        "bps_province_code": "34",
+        "kemendagri_province_code": "34",
+        "name": "KAB. KULON PROGO"
+    },
+    {
+        "bps_code": "3402",
+        "kemendagri_code": "3402",
+        "bps_province_code": "34",
+        "kemendagri_province_code": "34",
+        "name": "KAB. BANTUL"
+    },
+    {
+        "bps_code": "3403",
+        "kemendagri_code": "3403",
+        "bps_province_code": "34",
+        "kemendagri_province_code": "34",
+        "name": "KAB. GUNUNGKIDUL"
+    },
+    {
+        "bps_code": "3404",
+        "kemendagri_code": "3404",
+        "bps_province_code": "34",
+        "kemendagri_province_code": "34",
+        "name": "KAB. SLEMAN"
+    },
+    {
+        "bps_code": "3471",
+        "kemendagri_code": "3471",
+        "bps_province_code": "34",
+        "kemendagri_province_code": "34",
+        "name": "KOTA YOGYAKARTA"
+    },
+    {
+        "bps_code": "3501",
+        "kemendagri_code": "3501",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. PACITAN"
+    },
+    {
+        "bps_code": "3502",
+        "kemendagri_code": "3502",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. PONOROGO"
+    },
+    {
+        "bps_code": "3503",
+        "kemendagri_code": "3503",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. TRENGGALEK"
+    },
+    {
+        "bps_code": "3504",
+        "kemendagri_code": "3504",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. TULUNGAGUNG"
+    },
+    {
+        "bps_code": "3505",
+        "kemendagri_code": "3505",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. BLITAR"
+    },
+    {
+        "bps_code": "3506",
+        "kemendagri_code": "3506",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. KEDIRI"
+    },
+    {
+        "bps_code": "3507",
+        "kemendagri_code": "3507",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. MALANG"
+    },
+    {
+        "bps_code": "3508",
+        "kemendagri_code": "3508",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. LUMAJANG"
+    },
+    {
+        "bps_code": "3509",
+        "kemendagri_code": "3509",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. JEMBER"
+    },
+    {
+        "bps_code": "3510",
+        "kemendagri_code": "3510",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. BANYUWANGI"
+    },
+    {
+        "bps_code": "3511",
+        "kemendagri_code": "3511",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. BONDOWOSO"
+    },
+    {
+        "bps_code": "3512",
+        "kemendagri_code": "3512",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. SITUBONDO"
+    },
+    {
+        "bps_code": "3513",
+        "kemendagri_code": "3513",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. PROBOLINGGO"
+    },
+    {
+        "bps_code": "3514",
+        "kemendagri_code": "3514",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. PASURUAN"
+    },
+    {
+        "bps_code": "3515",
+        "kemendagri_code": "3515",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. SIDOARJO"
+    },
+    {
+        "bps_code": "3516",
+        "kemendagri_code": "3516",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. MOJOKERTO"
+    },
+    {
+        "bps_code": "3517",
+        "kemendagri_code": "3517",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. JOMBANG"
+    },
+    {
+        "bps_code": "3518",
+        "kemendagri_code": "3518",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. NGANJUK"
+    },
+    {
+        "bps_code": "3519",
+        "kemendagri_code": "3519",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. MADIUN"
+    },
+    {
+        "bps_code": "3520",
+        "kemendagri_code": "3520",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. MAGETAN"
+    },
+    {
+        "bps_code": "3521",
+        "kemendagri_code": "3521",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. NGAWI"
+    },
+    {
+        "bps_code": "3522",
+        "kemendagri_code": "3522",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. BOJONEGORO"
+    },
+    {
+        "bps_code": "3523",
+        "kemendagri_code": "3523",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. TUBAN"
+    },
+    {
+        "bps_code": "3524",
+        "kemendagri_code": "3524",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. LAMONGAN"
+    },
+    {
+        "bps_code": "3525",
+        "kemendagri_code": "3525",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. GRESIK"
+    },
+    {
+        "bps_code": "3526",
+        "kemendagri_code": "3526",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. BANGKALAN"
+    },
+    {
+        "bps_code": "3527",
+        "kemendagri_code": "3527",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. SAMPANG"
+    },
+    {
+        "bps_code": "3528",
+        "kemendagri_code": "3528",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. PAMEKASAN"
+    },
+    {
+        "bps_code": "3529",
+        "kemendagri_code": "3529",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KAB. SUMENEP"
+    },
+    {
+        "bps_code": "3571",
+        "kemendagri_code": "3571",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA KEDIRI"
+    },
+    {
+        "bps_code": "3572",
+        "kemendagri_code": "3572",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA BLITAR"
+    },
+    {
+        "bps_code": "3573",
+        "kemendagri_code": "3573",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA MALANG"
+    },
+    {
+        "bps_code": "3574",
+        "kemendagri_code": "3574",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA PROBOLINGGO"
+    },
+    {
+        "bps_code": "3575",
+        "kemendagri_code": "3575",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA PASURUAN"
+    },
+    {
+        "bps_code": "3576",
+        "kemendagri_code": "3576",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA MOJOKERTO"
+    },
+    {
+        "bps_code": "3577",
+        "kemendagri_code": "3577",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA MADIUN"
+    },
+    {
+        "bps_code": "3578",
+        "kemendagri_code": "3578",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA SURABAYA"
+    },
+    {
+        "bps_code": "3579",
+        "kemendagri_code": "3579",
+        "bps_province_code": "35",
+        "kemendagri_province_code": "35",
+        "name": "KOTA BATU"
+    },
+    {
+        "bps_code": "3601",
+        "kemendagri_code": "3601",
+        "bps_province_code": "36",
+        "kemendagri_province_code": "36",
+        "name": "KAB. PANDEGLANG"
+    },
+    {
+        "bps_code": "3602",
+        "kemendagri_code": "3602",
+        "bps_province_code": "36",
+        "kemendagri_province_code": "36",
+        "name": "KAB. LEBAK"
+    },
+    {
+        "bps_code": "3603",
+        "kemendagri_code": "3603",
+        "bps_province_code": "36",
+        "kemendagri_province_code": "36",
+        "name": "KAB. TANGERANG"
+    },
+    {
+        "bps_code": "3604",
+        "kemendagri_code": "3604",
+        "bps_province_code": "36",
+        "kemendagri_province_code": "36",
+        "name": "KAB. SERANG"
+    },
+    {
+        "bps_code": "3671",
+        "kemendagri_code": "3671",
+        "bps_province_code": "36",
+        "kemendagri_province_code": "36",
+        "name": "KOTA TANGERANG"
+    },
+    {
+        "bps_code": "3672",
+        "kemendagri_code": "3672",
+        "bps_province_code": "36",
+        "kemendagri_province_code": "36",
+        "name": "KOTA CILEGON"
+    },
+    {
+        "bps_code": "3673",
+        "kemendagri_code": "3673",
+        "bps_province_code": "36",
+        "kemendagri_province_code": "36",
+        "name": "KOTA SERANG"
+    },
+    {
+        "bps_code": "3674",
+        "kemendagri_code": "3674",
+        "bps_province_code": "36",
+        "kemendagri_province_code": "36",
+        "name": "KOTA TANGERANG SELATAN"
+    },
+    {
+        "bps_code": "5101",
+        "kemendagri_code": "5101",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KAB. JEMBRANA"
+    },
+    {
+        "bps_code": "5102",
+        "kemendagri_code": "5102",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KAB. TABANAN"
+    },
+    {
+        "bps_code": "5103",
+        "kemendagri_code": "5103",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KAB. BADUNG"
+    },
+    {
+        "bps_code": "5104",
+        "kemendagri_code": "5104",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KAB. GIANYAR"
+    },
+    {
+        "bps_code": "5105",
+        "kemendagri_code": "5105",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KAB. KLUNGKUNG"
+    },
+    {
+        "bps_code": "5106",
+        "kemendagri_code": "5106",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KAB. BANGLI"
+    },
+    {
+        "bps_code": "5107",
+        "kemendagri_code": "5107",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KAB. KARANGASEM"
+    },
+    {
+        "bps_code": "5108",
+        "kemendagri_code": "5108",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KAB. BULELENG"
+    },
+    {
+        "bps_code": "5171",
+        "kemendagri_code": "5171",
+        "bps_province_code": "51",
+        "kemendagri_province_code": "51",
+        "name": "KOTA DENPASAR"
+    },
+    {
+        "bps_code": "5201",
+        "kemendagri_code": "5201",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KAB. LOMBOK BARAT"
+    },
+    {
+        "bps_code": "5202",
+        "kemendagri_code": "5202",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KAB. LOMBOK TENGAH"
+    },
+    {
+        "bps_code": "5203",
+        "kemendagri_code": "5203",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KAB. LOMBOK TIMUR"
+    },
+    {
+        "bps_code": "5204",
+        "kemendagri_code": "5204",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KAB. SUMBAWA"
+    },
+    {
+        "bps_code": "5205",
+        "kemendagri_code": "5205",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KAB. DOMPU"
+    },
+    {
+        "bps_code": "5206",
+        "kemendagri_code": "5206",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KAB. BIMA"
+    },
+    {
+        "bps_code": "5207",
+        "kemendagri_code": "5207",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KAB. SUMBAWA BARAT"
+    },
+    {
+        "bps_code": "5208",
+        "kemendagri_code": "5208",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KAB. LOMBOK UTARA"
+    },
+    {
+        "bps_code": "5271",
+        "kemendagri_code": "5271",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KOTA MATARAM"
+    },
+    {
+        "bps_code": "5272",
+        "kemendagri_code": "5272",
+        "bps_province_code": "52",
+        "kemendagri_province_code": "52",
+        "name": "KOTA BIMA"
+    },
+    {
+        "bps_code": "5301",
+        "kemendagri_code": "5312",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. SUMBA BARAT"
+    },
+    {
+        "bps_code": "5302",
+        "kemendagri_code": "5311",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. SUMBA TIMUR"
+    },
+    {
+        "bps_code": "5303",
+        "kemendagri_code": "5301",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. KUPANG"
+    },
+    {
+        "bps_code": "5304",
+        "kemendagri_code": "5302",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB TIMOR TENGAH SELATAN"
+    },
+    {
+        "bps_code": "5305",
+        "kemendagri_code": "5303",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. TIMOR TENGAH UTARA"
+    },
+    {
+        "bps_code": "5306",
+        "kemendagri_code": "5304",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. BELU"
+    },
+    {
+        "bps_code": "5307",
+        "kemendagri_code": "5305",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. ALOR"
+    },
+    {
+        "bps_code": "5308",
+        "kemendagri_code": "5313",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. LEMBATA"
+    },
+    {
+        "bps_code": "5309",
+        "kemendagri_code": "5306",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. FLORES TIMUR"
+    },
+    {
+        "bps_code": "5310",
+        "kemendagri_code": "5307",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. SIKKA"
+    },
+    {
+        "bps_code": "5311",
+        "kemendagri_code": "5308",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. ENDE"
+    },
+    {
+        "bps_code": "5312",
+        "kemendagri_code": "5309",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. NGADA"
+    },
+    {
+        "bps_code": "5313",
+        "kemendagri_code": "5310",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. MANGGARAI"
+    },
+    {
+        "bps_code": "5314",
+        "kemendagri_code": "5314",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. ROTE NDAO"
+    },
+    {
+        "bps_code": "5315",
+        "kemendagri_code": "5315",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. MANGGARAI BARAT"
+    },
+    {
+        "bps_code": "5316",
+        "kemendagri_code": "5317",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. SUMBA TENGAH"
+    },
+    {
+        "bps_code": "5317",
+        "kemendagri_code": "5318",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. SUMBA BARAT DAYA"
+    },
+    {
+        "bps_code": "5318",
+        "kemendagri_code": "5316",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. NAGEKEO"
+    },
+    {
+        "bps_code": "5319",
+        "kemendagri_code": "5319",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. MANGGARAI TIMUR"
+    },
+    {
+        "bps_code": "5320",
+        "kemendagri_code": "5320",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. SABU RAIJUA"
+    },
+    {
+        "bps_code": "5321",
+        "kemendagri_code": "5321",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KAB. MALAKA"
+    },
+    {
+        "bps_code": "5371",
+        "kemendagri_code": "5371",
+        "bps_province_code": "53",
+        "kemendagri_province_code": "53",
+        "name": "KOTA KUPANG"
+    },
+    {
+        "bps_code": "6101",
+        "kemendagri_code": "6101",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. SAMBAS"
+    },
+    {
+        "bps_code": "6102",
+        "kemendagri_code": "6107",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. BENGKAYANG"
+    },
+    {
+        "bps_code": "6103",
+        "kemendagri_code": "6108",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. LANDAK"
+    },
+    {
+        "bps_code": "6104",
+        "kemendagri_code": "6102",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. MEMPAWAH"
+    },
+    {
+        "bps_code": "6105",
+        "kemendagri_code": "6103",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. SANGGAU"
+    },
+    {
+        "bps_code": "6106",
+        "kemendagri_code": "6104",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. KETAPANG"
+    },
+    {
+        "bps_code": "6107",
+        "kemendagri_code": "6105",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. SINTANG"
+    },
+    {
+        "bps_code": "6108",
+        "kemendagri_code": "6106",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. KAPUAS HULU"
+    },
+    {
+        "bps_code": "6109",
+        "kemendagri_code": "6109",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. SEKADAU"
+    },
+    {
+        "bps_code": "6110",
+        "kemendagri_code": "6110",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. MELAWI"
+    },
+    {
+        "bps_code": "6111",
+        "kemendagri_code": "6111",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. KAYONG UTARA"
+    },
+    {
+        "bps_code": "6112",
+        "kemendagri_code": "6112",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KAB. KUBU RAYA"
+    },
+    {
+        "bps_code": "6171",
+        "kemendagri_code": "6171",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KOTA PONTIANAK"
+    },
+    {
+        "bps_code": "6172",
+        "kemendagri_code": "6172",
+        "bps_province_code": "61",
+        "kemendagri_province_code": "61",
+        "name": "KOTA SINGKAWANG"
+    },
+    {
+        "bps_code": "6201",
+        "kemendagri_code": "6201",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. KOTAWARINGIN BARAT"
+    },
+    {
+        "bps_code": "6202",
+        "kemendagri_code": "6202",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. KOTAWARINGIN TIMUR"
+    },
+    {
+        "bps_code": "6203",
+        "kemendagri_code": "6203",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. KAPUAS"
+    },
+    {
+        "bps_code": "6204",
+        "kemendagri_code": "6204",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. BARITO SELATAN"
+    },
+    {
+        "bps_code": "6205",
+        "kemendagri_code": "6205",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. BARITO UTARA"
+    },
+    {
+        "bps_code": "6206",
+        "kemendagri_code": "6208",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. SUKAMARA"
+    },
+    {
+        "bps_code": "6207",
+        "kemendagri_code": "6209",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. LAMANDAU"
+    },
+    {
+        "bps_code": "6208",
+        "kemendagri_code": "6207",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. SERUYAN"
+    },
+    {
+        "bps_code": "6209",
+        "kemendagri_code": "6206",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. KATINGAN"
+    },
+    {
+        "bps_code": "6210",
+        "kemendagri_code": "6211",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. PULANG PISAU"
+    },
+    {
+        "bps_code": "6211",
+        "kemendagri_code": "6210",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. GUNUNG MAS"
+    },
+    {
+        "bps_code": "6212",
+        "kemendagri_code": "6213",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. BARITO TIMUR"
+    },
+    {
+        "bps_code": "6213",
+        "kemendagri_code": "6212",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KAB. MURUNG RAYA"
+    },
+    {
+        "bps_code": "6271",
+        "kemendagri_code": "6271",
+        "bps_province_code": "62",
+        "kemendagri_province_code": "62",
+        "name": "KOTA PALANGKARAYA"
+    },
+    {
+        "bps_code": "6301",
+        "kemendagri_code": "6301",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. TANAH LAUT"
+    },
+    {
+        "bps_code": "6302",
+        "kemendagri_code": "6302",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. KOTABARU"
+    },
+    {
+        "bps_code": "6303",
+        "kemendagri_code": "6303",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. BANJAR"
+    },
+    {
+        "bps_code": "6304",
+        "kemendagri_code": "6304",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. BARITO KUALA"
+    },
+    {
+        "bps_code": "6305",
+        "kemendagri_code": "6305",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. TAPIN"
+    },
+    {
+        "bps_code": "6306",
+        "kemendagri_code": "6306",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. HULU SUNGAI SELATAN"
+    },
+    {
+        "bps_code": "6307",
+        "kemendagri_code": "6307",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. HULU SUNGAI TENGAH"
+    },
+    {
+        "bps_code": "6308",
+        "kemendagri_code": "6308",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. HULU SUNGAI UTARA"
+    },
+    {
+        "bps_code": "6309",
+        "kemendagri_code": "6309",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. TABALONG"
+    },
+    {
+        "bps_code": "6310",
+        "kemendagri_code": "6310",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. TANAH BUMBU"
+    },
+    {
+        "bps_code": "6311",
+        "kemendagri_code": "6311",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KAB. BALANGAN"
+    },
+    {
+        "bps_code": "6371",
+        "kemendagri_code": "6371",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KOTA BANJARMASIN"
+    },
+    {
+        "bps_code": "6372",
+        "kemendagri_code": "6372",
+        "bps_province_code": "63",
+        "kemendagri_province_code": "63",
+        "name": "KOTA BANJARBARU"
+    },
+    {
+        "bps_code": "6401",
+        "kemendagri_code": "6401",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KAB. PASER"
+    },
+    {
+        "bps_code": "6402",
+        "kemendagri_code": "6407",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KAB. KUTAI BARAT"
+    },
+    {
+        "bps_code": "6403",
+        "kemendagri_code": "6402",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KAB. KUTAI KARTANEGARA"
+    },
+    {
+        "bps_code": "6404",
+        "kemendagri_code": "6408",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KAB. KUTAI TIMUR"
+    },
+    {
+        "bps_code": "6405",
+        "kemendagri_code": "6403",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KAB. BERAU"
+    },
+    {
+        "bps_code": "6409",
+        "kemendagri_code": "6409",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KAB. PENAJAM PASER UTARA"
+    },
+    {
+        "bps_code": "6411",
+        "kemendagri_code": "6411",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KAB. MAHAKAM ULU"
+    },
+    {
+        "bps_code": "6471",
+        "kemendagri_code": "6471",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KOTA BALIKPAPAN"
+    },
+    {
+        "bps_code": "6472",
+        "kemendagri_code": "6472",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KOTA SAMARINDA"
+    },
+    {
+        "bps_code": "6474",
+        "kemendagri_code": "6474",
+        "bps_province_code": "64",
+        "kemendagri_province_code": "64",
+        "name": "KOTA BONTANG"
+    },
+    {
+        "bps_code": "6501",
+        "kemendagri_code": "6502",
+        "bps_province_code": "65",
+        "kemendagri_province_code": "65",
+        "name": "KAB. MALINAU"
+    },
+    {
+        "bps_code": "6502",
+        "kemendagri_code": "6501",
+        "bps_province_code": "65",
+        "kemendagri_province_code": "65",
+        "name": "KAB. BULUNGAN"
+    },
+    {
+        "bps_code": "6503",
+        "kemendagri_code": "6504",
+        "bps_province_code": "65",
+        "kemendagri_province_code": "65",
+        "name": "KAB. TANA TIDUNG"
+    },
+    {
+        "bps_code": "6504",
+        "kemendagri_code": "6503",
+        "bps_province_code": "65",
+        "kemendagri_province_code": "65",
+        "name": "KAB. NUNUKAN"
+    },
+    {
+        "bps_code": "6571",
+        "kemendagri_code": "6571",
+        "bps_province_code": "65",
+        "kemendagri_province_code": "65",
+        "name": "KOTA TARAKAN"
+    },
+    {
+        "bps_code": "7101",
+        "kemendagri_code": "7101",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. BOLAANG MONGONDOW"
+    },
+    {
+        "bps_code": "7102",
+        "kemendagri_code": "7102",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. MINAHASA"
+    },
+    {
+        "bps_code": "7103",
+        "kemendagri_code": "7103",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. KEPULAUAN SANGIHE"
+    },
+    {
+        "bps_code": "7104",
+        "kemendagri_code": "7104",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. KEPULAUAN TALAUD"
+    },
+    {
+        "bps_code": "7105",
+        "kemendagri_code": "7105",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. MINAHASA SELATAN"
+    },
+    {
+        "bps_code": "7106",
+        "kemendagri_code": "7106",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. MINAHASA UTARA"
+    },
+    {
+        "bps_code": "7107",
+        "kemendagri_code": "7108",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. BOLAANG MONGONDOW UTARA"
+    },
+    {
+        "bps_code": "7108",
+        "kemendagri_code": "7109",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. KEP. SIAU TAGULANDANG BIARO"
+    },
+    {
+        "bps_code": "7109",
+        "kemendagri_code": "7107",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. MINAHASA TENGGARA"
+    },
+    {
+        "bps_code": "7110",
+        "kemendagri_code": "7111",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. BOLAANG MONGONDOW SELATAN"
+    },
+    {
+        "bps_code": "7111",
+        "kemendagri_code": "7110",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KAB. BOLAANG MONGONDOW TIMUR"
+    },
+    {
+        "bps_code": "7171",
+        "kemendagri_code": "7171",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KOTA MANADO"
+    },
+    {
+        "bps_code": "7172",
+        "kemendagri_code": "7172",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KOTA BITUNG"
+    },
+    {
+        "bps_code": "7173",
+        "kemendagri_code": "7173",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KOTA TOMOHON"
+    },
+    {
+        "bps_code": "7174",
+        "kemendagri_code": "7174",
+        "bps_province_code": "71",
+        "kemendagri_province_code": "71",
+        "name": "KOTA KOTAMOBAGU"
+    },
+    {
+        "bps_code": "7201",
+        "kemendagri_code": "7207",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. BANGGAI KEPULAUAN"
+    },
+    {
+        "bps_code": "7202",
+        "kemendagri_code": "7201",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. BANGGAI"
+    },
+    {
+        "bps_code": "7203",
+        "kemendagri_code": "7206",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. MOROWALI"
+    },
+    {
+        "bps_code": "7204",
+        "kemendagri_code": "7202",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. POSO"
+    },
+    {
+        "bps_code": "7205",
+        "kemendagri_code": "7203",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. DONGGALA"
+    },
+    {
+        "bps_code": "7206",
+        "kemendagri_code": "7204",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. TOLI TOLI"
+    },
+    {
+        "bps_code": "7207",
+        "kemendagri_code": "7205",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. BUOL"
+    },
+    {
+        "bps_code": "7208",
+        "kemendagri_code": "7208",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. PARIGI MOUTONG"
+    },
+    {
+        "bps_code": "7209",
+        "kemendagri_code": "7209",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. TOJO UNA UNA"
+    },
+    {
+        "bps_code": "7210",
+        "kemendagri_code": "7210",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. SIGI"
+    },
+    {
+        "bps_code": "7211",
+        "kemendagri_code": "7211",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. BANGGAI LAUT"
+    },
+    {
+        "bps_code": "7212",
+        "kemendagri_code": "7212",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KAB. MOROWALI UTARA"
+    },
+    {
+        "bps_code": "7271",
+        "kemendagri_code": "7271",
+        "bps_province_code": "72",
+        "kemendagri_province_code": "72",
+        "name": "KOTA PALU"
+    },
+    {
+        "bps_code": "7301",
+        "kemendagri_code": "7301",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. KEPULAUAN SELAYAR"
+    },
+    {
+        "bps_code": "7302",
+        "kemendagri_code": "7302",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. BULUKUMBA"
+    },
+    {
+        "bps_code": "7303",
+        "kemendagri_code": "7303",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. BANTAENG"
+    },
+    {
+        "bps_code": "7304",
+        "kemendagri_code": "7304",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. JENEPONTO"
+    },
+    {
+        "bps_code": "7305",
+        "kemendagri_code": "7305",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. TAKALAR"
+    },
+    {
+        "bps_code": "7306",
+        "kemendagri_code": "7306",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. GOWA"
+    },
+    {
+        "bps_code": "7307",
+        "kemendagri_code": "7307",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. SINJAI"
+    },
+    {
+        "bps_code": "7308",
+        "kemendagri_code": "7309",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. MAROS"
+    },
+    {
+        "bps_code": "7309",
+        "kemendagri_code": "7310",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. PANGKAJENE DAN KEPULAUAN"
+    },
+    {
+        "bps_code": "7310",
+        "kemendagri_code": "7311",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. BARRU"
+    },
+    {
+        "bps_code": "7311",
+        "kemendagri_code": "7308",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. BONE"
+    },
+    {
+        "bps_code": "7312",
+        "kemendagri_code": "7312",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. SOPPENG"
+    },
+    {
+        "bps_code": "7313",
+        "kemendagri_code": "7313",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. WAJO"
+    },
+    {
+        "bps_code": "7314",
+        "kemendagri_code": "7314",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. SIDENRENG RAPPANG"
+    },
+    {
+        "bps_code": "7315",
+        "kemendagri_code": "7315",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. PINRANG"
+    },
+    {
+        "bps_code": "7316",
+        "kemendagri_code": "7316",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. ENREKANG"
+    },
+    {
+        "bps_code": "7317",
+        "kemendagri_code": "7317",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. LUWU"
+    },
+    {
+        "bps_code": "7318",
+        "kemendagri_code": "7318",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. TANA TORAJA"
+    },
+    {
+        "bps_code": "7322",
+        "kemendagri_code": "7322",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. LUWU UTARA"
+    },
+    {
+        "bps_code": "7325",
+        "kemendagri_code": "7324",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. LUWU TIMUR"
+    },
+    {
+        "bps_code": "7326",
+        "kemendagri_code": "7326",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KAB. TORAJA UTARA"
+    },
+    {
+        "bps_code": "7371",
+        "kemendagri_code": "7371",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KOTA MAKASSAR"
+    },
+    {
+        "bps_code": "7372",
+        "kemendagri_code": "7372",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KOTA PAREPARE"
+    },
+    {
+        "bps_code": "7373",
+        "kemendagri_code": "7373",
+        "bps_province_code": "73",
+        "kemendagri_province_code": "73",
+        "name": "KOTA PALOPO"
+    },
+    {
+        "bps_code": "7401",
+        "kemendagri_code": "7404",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. BUTON"
+    },
+    {
+        "bps_code": "7402",
+        "kemendagri_code": "7403",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. MUNA"
+    },
+    {
+        "bps_code": "7403",
+        "kemendagri_code": "7402",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. KONAWE"
+    },
+    {
+        "bps_code": "7404",
+        "kemendagri_code": "7401",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. KOLAKA"
+    },
+    {
+        "bps_code": "7405",
+        "kemendagri_code": "7405",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. KONAWE SELATAN"
+    },
+    {
+        "bps_code": "7406",
+        "kemendagri_code": "7406",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. BOMBANA"
+    },
+    {
+        "bps_code": "7407",
+        "kemendagri_code": "7407",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. WAKATOBI"
+    },
+    {
+        "bps_code": "7408",
+        "kemendagri_code": "7408",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. KOLAKA UTARA"
+    },
+    {
+        "bps_code": "7409",
+        "kemendagri_code": "7410",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. BUTON UTARA"
+    },
+    {
+        "bps_code": "7410",
+        "kemendagri_code": "7409",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. KONAWE UTARA"
+    },
+    {
+        "bps_code": "7411",
+        "kemendagri_code": "7411",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. KOLAKA TIMUR"
+    },
+    {
+        "bps_code": "7412",
+        "kemendagri_code": "7412",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. KONAWE KEPULAUAN"
+    },
+    {
+        "bps_code": "7413",
+        "kemendagri_code": "7413",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. MUNA BARAT"
+    },
+    {
+        "bps_code": "7414",
+        "kemendagri_code": "7414",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. BUTON TENGAH"
+    },
+    {
+        "bps_code": "7415",
+        "kemendagri_code": "7415",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KAB. BUTON SELATAN"
+    },
+    {
+        "bps_code": "7471",
+        "kemendagri_code": "7471",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KOTA KENDARI"
+    },
+    {
+        "bps_code": "7472",
+        "kemendagri_code": "7472",
+        "bps_province_code": "74",
+        "kemendagri_province_code": "74",
+        "name": "KOTA BAU BAU"
+    },
+    {
+        "bps_code": "7501",
+        "kemendagri_code": "7502",
+        "bps_province_code": "75",
+        "kemendagri_province_code": "75",
+        "name": "KAB. BOALEMO"
+    },
+    {
+        "bps_code": "7502",
+        "kemendagri_code": "7501",
+        "bps_province_code": "75",
+        "kemendagri_province_code": "75",
+        "name": "KAB. GORONTALO"
+    },
+    {
+        "bps_code": "7503",
+        "kemendagri_code": "7504",
+        "bps_province_code": "75",
+        "kemendagri_province_code": "75",
+        "name": "KAB. POHUWATO"
+    },
+    {
+        "bps_code": "7504",
+        "kemendagri_code": "7503",
+        "bps_province_code": "75",
+        "kemendagri_province_code": "75",
+        "name": "KAB. BONE BOLANGO"
+    },
+    {
+        "bps_code": "7505",
+        "kemendagri_code": "7505",
+        "bps_province_code": "75",
+        "kemendagri_province_code": "75",
+        "name": "KAB. GORONTALO UTARA"
+    },
+    {
+        "bps_code": "7571",
+        "kemendagri_code": "7571",
+        "bps_province_code": "75",
+        "kemendagri_province_code": "75",
+        "name": "KOTA GORONTALO"
+    },
+    {
+        "bps_code": "7601",
+        "kemendagri_code": "7605",
+        "bps_province_code": "76",
+        "kemendagri_province_code": "76",
+        "name": "KAB. MAJENE"
+    },
+    {
+        "bps_code": "7602",
+        "kemendagri_code": "7604",
+        "bps_province_code": "76",
+        "kemendagri_province_code": "76",
+        "name": "KAB. POLEWALI MANDAR"
+    },
+    {
+        "bps_code": "7603",
+        "kemendagri_code": "7603",
+        "bps_province_code": "76",
+        "kemendagri_province_code": "76",
+        "name": "KAB. MAMASA"
+    },
+    {
+        "bps_code": "7604",
+        "kemendagri_code": "7602",
+        "bps_province_code": "76",
+        "kemendagri_province_code": "76",
+        "name": "KAB. MAMUJU"
+    },
+    {
+        "bps_code": "7605",
+        "kemendagri_code": "7601",
+        "bps_province_code": "76",
+        "kemendagri_province_code": "76",
+        "name": "KAB. PASANGKAYU"
+    },
+    {
+        "bps_code": "7606",
+        "kemendagri_code": "7606",
+        "bps_province_code": "76",
+        "kemendagri_province_code": "76",
+        "name": "KAB. MAMUJU TENGAH"
+    },
+    {
+        "bps_code": "8101",
+        "kemendagri_code": "8103",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. KEPULAUAN TANIMBAR"
+    },
+    {
+        "bps_code": "8102",
+        "kemendagri_code": "8102",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. MALUKU TENGGARA"
+    },
+    {
+        "bps_code": "8103",
+        "kemendagri_code": "8101",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. MALUKU TENGAH"
+    },
+    {
+        "bps_code": "8104",
+        "kemendagri_code": "8104",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. BURU"
+    },
+    {
+        "bps_code": "8105",
+        "kemendagri_code": "8107",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. KEPULAUAN ARU"
+    },
+    {
+        "bps_code": "8106",
+        "kemendagri_code": "8106",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. SERAM BAGIAN BARAT"
+    },
+    {
+        "bps_code": "8107",
+        "kemendagri_code": "8105",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. SERAM BAGIAN TIMUR"
+    },
+    {
+        "bps_code": "8108",
+        "kemendagri_code": "8108",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. MALUKU BARAT DAYA"
+    },
+    {
+        "bps_code": "8109",
+        "kemendagri_code": "8109",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KAB. BURU SELATAN"
+    },
+    {
+        "bps_code": "8171",
+        "kemendagri_code": "8171",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KOTA AMBON"
+    },
+    {
+        "bps_code": "8172",
+        "kemendagri_code": "8172",
+        "bps_province_code": "81",
+        "kemendagri_province_code": "81",
+        "name": "KOTA TUAL"
+    },
+    {
+        "bps_code": "8201",
+        "kemendagri_code": "8201",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KAB. HALMAHERA BARAT"
+    },
+    {
+        "bps_code": "8202",
+        "kemendagri_code": "8202",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KAB. HALMAHERA TENGAH"
+    },
+    {
+        "bps_code": "8203",
+        "kemendagri_code": "8205",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KAB. KEPULAUAN SULA"
+    },
+    {
+        "bps_code": "8204",
+        "kemendagri_code": "8204",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KAB. HALMAHERA SELATAN"
+    },
+    {
+        "bps_code": "8205",
+        "kemendagri_code": "8203",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KAB. HALMAHERA UTARA"
+    },
+    {
+        "bps_code": "8206",
+        "kemendagri_code": "8206",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KAB. HALMAHERA TIMUR"
+    },
+    {
+        "bps_code": "8207",
+        "kemendagri_code": "8207",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KAB. PULAU MOROTAI"
+    },
+    {
+        "bps_code": "8208",
+        "kemendagri_code": "8208",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KAB. PULAU TALIABU"
+    },
+    {
+        "bps_code": "8271",
+        "kemendagri_code": "8271",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KOTA TERNATE"
+    },
+    {
+        "bps_code": "8272",
+        "kemendagri_code": "8272",
+        "bps_province_code": "82",
+        "kemendagri_province_code": "82",
+        "name": "KOTA TIDORE KEPULAUAN"
+    },
+    {
+        "bps_code": "9101",
+        "kemendagri_code": "9203",
+        "bps_province_code": "91",
+        "kemendagri_province_code": "92",
+        "name": "KAB. FAK FAK"
+    },
+    {
+        "bps_code": "9102",
+        "kemendagri_code": "9208",
+        "bps_province_code": "91",
+        "kemendagri_province_code": "92",
+        "name": "KAB. KAIMANA"
+    },
+    {
+        "bps_code": "9103",
+        "kemendagri_code": "9207",
+        "bps_province_code": "91",
+        "kemendagri_province_code": "92",
+        "name": "KAB. TELUK WONDAMA"
+    },
+    {
+        "bps_code": "9104",
+        "kemendagri_code": "9206",
+        "bps_province_code": "91",
+        "kemendagri_province_code": "92",
+        "name": "KAB. TELUK BINTUNI"
+    },
+    {
+        "bps_code": "9105",
+        "kemendagri_code": "9202",
+        "bps_province_code": "91",
+        "kemendagri_province_code": "92",
+        "name": "KAB. MANOKWARI"
+    },
+    {
+        "bps_code": "9111",
+        "kemendagri_code": "9211",
+        "bps_province_code": "91",
+        "kemendagri_province_code": "92",
+        "name": "KAB. MANOKWARI SELATAN"
+    },
+    {
+        "bps_code": "9112",
+        "kemendagri_code": "9212",
+        "bps_province_code": "91",
+        "kemendagri_province_code": "92",
+        "name": "KAB. PEGUNUNGAN ARFAK"
+    },
+    {
+        "bps_code": "9201",
+        "kemendagri_code": null,
+        "bps_province_code": "92",
+        "kemendagri_province_code": null,
+        "name": "KAB. RAJA AMPAT"
+    },
+    {
+        "bps_code": "9202",
+        "kemendagri_code": null,
+        "bps_province_code": "92",
+        "kemendagri_province_code": null,
+        "name": "KAB. SORONG"
+    },
+    {
+        "bps_code": "9203",
+        "kemendagri_code": null,
+        "bps_province_code": "92",
+        "kemendagri_province_code": null,
+        "name": "KAB. SORONG SELATAN"
+    },
+    {
+        "bps_code": "9204",
+        "kemendagri_code": null,
+        "bps_province_code": "92",
+        "kemendagri_province_code": null,
+        "name": "KAB. MAYBRAT"
+    },
+    {
+        "bps_code": "9205",
+        "kemendagri_code": null,
+        "bps_province_code": "92",
+        "kemendagri_province_code": null,
+        "name": "KAB. TAMBRAUW"
+    },
+    {
+        "bps_code": "9271",
+        "kemendagri_code": null,
+        "bps_province_code": "92",
+        "kemendagri_province_code": null,
+        "name": "KOTA SORONG"
+    },
+    {
+        "bps_code": "9403",
+        "kemendagri_code": "9103",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KAB. JAYAPURA"
+    },
+    {
+        "bps_code": "9408",
+        "kemendagri_code": "9105",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KAB. KEPULAUAN YAPEN"
+    },
+    {
+        "bps_code": "9409",
+        "kemendagri_code": "9106",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KAB. BIAK NUMFOR"
+    },
+    {
+        "bps_code": "9419",
+        "kemendagri_code": "9110",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KAB. SARMI"
+    },
+    {
+        "bps_code": "9420",
+        "kemendagri_code": "9111",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KAB. KEEROM"
+    },
+    {
+        "bps_code": "9426",
+        "kemendagri_code": "9115",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KAB. WAROPEN"
+    },
+    {
+        "bps_code": "9427",
+        "kemendagri_code": "9119",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KAB. SUPIORI"
+    },
+    {
+        "bps_code": "9428",
+        "kemendagri_code": "9120",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KAB. MAMBERAMO RAYA"
+    },
+    {
+        "bps_code": "9471",
+        "kemendagri_code": "9171",
+        "bps_province_code": "94",
+        "kemendagri_province_code": "91",
+        "name": "KOTA JAYAPURA"
+    },
+    {
+        "bps_code": "9501",
+        "kemendagri_code": null,
+        "bps_province_code": "95",
+        "kemendagri_province_code": null,
+        "name": "KAB. MERAUKE"
+    },
+    {
+        "bps_code": "9502",
+        "kemendagri_code": null,
+        "bps_province_code": "95",
+        "kemendagri_province_code": null,
+        "name": "KAB. BOVEN DIGOEL"
+    },
+    {
+        "bps_code": "9503",
+        "kemendagri_code": null,
+        "bps_province_code": "95",
+        "kemendagri_province_code": null,
+        "name": "KAB. MAPPI"
+    },
+    {
+        "bps_code": "9504",
+        "kemendagri_code": null,
+        "bps_province_code": "95",
+        "kemendagri_province_code": null,
+        "name": "KAB. ASMAT"
+    },
+    {
+        "bps_code": "9601",
+        "kemendagri_code": null,
+        "bps_province_code": "96",
+        "kemendagri_province_code": null,
+        "name": "KAB. MIMIKA"
+    },
+    {
+        "bps_code": "9602",
+        "kemendagri_code": null,
+        "bps_province_code": "96",
+        "kemendagri_province_code": null,
+        "name": "KAB. DOGIYAI"
+    },
+    {
+        "bps_code": "9603",
+        "kemendagri_code": null,
+        "bps_province_code": "96",
+        "kemendagri_province_code": null,
+        "name": "KAB. DEIYAI"
+    },
+    {
+        "bps_code": "9604",
+        "kemendagri_code": null,
+        "bps_province_code": "96",
+        "kemendagri_province_code": null,
+        "name": "KAB. NABIRE"
+    },
+    {
+        "bps_code": "9605",
+        "kemendagri_code": null,
+        "bps_province_code": "96",
+        "kemendagri_province_code": null,
+        "name": "KAB. PANIAI"
+    },
+    {
+        "bps_code": "9606",
+        "kemendagri_code": null,
+        "bps_province_code": "96",
+        "kemendagri_province_code": null,
+        "name": "KAB. INTAN JAYA"
+    },
+    {
+        "bps_code": "9607",
+        "kemendagri_code": null,
+        "bps_province_code": "96",
+        "kemendagri_province_code": null,
+        "name": "KAB. PUNCAK"
+    },
+    {
+        "bps_code": "9608",
+        "kemendagri_code": null,
+        "bps_province_code": "96",
+        "kemendagri_province_code": null,
+        "name": "KAB. PUNCAK JAYA"
+    },
+    {
+        "bps_code": "9701",
+        "kemendagri_code": null,
+        "bps_province_code": "97",
+        "kemendagri_province_code": null,
+        "name": "KAB. NDUGA"
+    },
+    {
+        "bps_code": "9702",
+        "kemendagri_code": null,
+        "bps_province_code": "97",
+        "kemendagri_province_code": null,
+        "name": "KAB. JAYAWIJAYA"
+    },
+    {
+        "bps_code": "9703",
+        "kemendagri_code": null,
+        "bps_province_code": "97",
+        "kemendagri_province_code": null,
+        "name": "KAB. LANNY JAYA"
+    },
+    {
+        "bps_code": "9704",
+        "kemendagri_code": null,
+        "bps_province_code": "97",
+        "kemendagri_province_code": null,
+        "name": "KAB. TOLIKARA"
+    },
+    {
+        "bps_code": "9705",
+        "kemendagri_code": null,
+        "bps_province_code": "97",
+        "kemendagri_province_code": null,
+        "name": "KAB. MAMBERAMO TENGAH"
+    },
+    {
+        "bps_code": "9706",
+        "kemendagri_code": null,
+        "bps_province_code": "97",
+        "kemendagri_province_code": null,
+        "name": "KAB. YALIMO"
+    },
+    {
+        "bps_code": "9707",
+        "kemendagri_code": null,
+        "bps_province_code": "97",
+        "kemendagri_province_code": null,
+        "name": "KAB. YAHUKIMO"
+    },
+    {
+        "bps_code": "9708",
+        "kemendagri_code": null,
+        "bps_province_code": "97",
+        "kemendagri_province_code": null,
+        "name": "KAB. PEGUNUNGAN BINTANG"
+    }
+]
