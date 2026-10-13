@@ -13,14 +13,25 @@ enum UserRole {
   ADMIN
 }
 
+enum AuthProvider {
+  LOCAL
+  GOOGLE
+}
+
 model User {
-  id        String   @id @default(uuid())
-  email     String   @unique
-  password  String
-  name      String
-  role      UserRole @default(USER)
-  avatarUrl String?
-  handphone String?  @unique
+  id               String       @id @default(uuid())
+  email            String       @unique
+  password         String
+  name             String
+  firstName        String?
+  lastName         String?
+  role             UserRole     @default(USER)
+  avatarUrl        String?
+  handphone        String?      @unique
+  provider         AuthProvider @default(LOCAL)
+  googleId         String?
+  hashedResetToken String?
+  resetTokenExpiry DateTime?
 
   address  Address[]
   merchant Merchant?
@@ -28,6 +39,8 @@ model User {
   orders   Order[]
 
   createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+  lastLogin DateTime @default(now()) @updatedAt
 }
 
 model Province {
@@ -42,7 +55,7 @@ model Province {
 }
 
 model City {
-  id   String   @id @default(uuid())
+  id   String @id @default(uuid())
   name String
 
   address    Address[]
@@ -74,7 +87,7 @@ model District {
 }
 
 model PostalCode {
-  id   String @id @default(uuid())
+  id   String  @id @default(uuid())
   code String?
   name String
 
@@ -154,6 +167,7 @@ model Product {
   width       Int
   height      Int
   length      Int
+  // status      String?
 
   merchantId String
   categoryId String
@@ -305,7 +319,7 @@ enum OrderStatus {
 
 //// Alih2 menggunakan uuid, gunakan kustom id untuk setiap id order, payment, dan shipping agar mudah di tracking admin. 
 model Order {
-  id     String      @id @default(uuid()) @unique
+  id     String      @id @unique @default(uuid())
   total  Decimal     @db.Decimal(12, 2)
   status OrderStatus @default(PENDING_PAYMENT)
 
