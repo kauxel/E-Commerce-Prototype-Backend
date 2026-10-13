@@ -24,6 +24,7 @@ import { AddressService } from './modules/address/address.service';
 import { AddressModule } from './modules/address/address.module';
 import { ProfileController } from './modules/profile/profile.controller';
 import { ProfileModule } from './modules/profile/profile.module';
+import { MailModule } from './modules/mail/mail.module';
 
 @Module({
   imports: [
@@ -32,19 +33,20 @@ import { ProfileModule } from './modules/profile/profile.module';
     }),
     PrismaModule,
     HealthModule,
-    AuthModule,
-    UsersModule,
     ProductsModule,
+    AuthModule,
+    AdminModule,
+    ProfileModule,
+    MerchantModule,
+    UsersModule,
+    AddressModule,
     CategoriesModule,
     CartModule,
     OrderModule,
     CheckoutModule,
     ShippingModule,
     PaymentModule,
-    AdminModule,
-    MerchantModule,
-    AddressModule,
-    ProfileModule,
+    MailModule,
   ],
 })
 export class AppModule {}
